@@ -1,0 +1,16 @@
+LIBRARY "WIN32DLL"
+EXPORTS
+Add
+AddPtr
+TestParamChar
+GetClsObj
+TestCAdd
+TestParamQuote
+TestParamArray
+TestOutArr
+TestCharArr
+TestStruct
+TestStructPtr
+TestStruct2
+CSharpGetOpencvPicFromDll_Way1
+CSharpGetOpencvPicFromDll_Way2
